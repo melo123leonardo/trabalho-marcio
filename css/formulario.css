@@ -1,0 +1,30 @@
+h1 {
+    color: rgb(250, 250, 250);
+     text-align: center; 
+     border: 4px solid #0b93e2f3;
+     background-color: aqua;
+     font-size: 100px;
+ }
+
+ body {
+    background-color: #e8fdff; 
+  }
+
+ 
+  h2 {
+    text-align: center; 
+  }
+
+  .container {
+    width: 50%; 
+    margin: 0 auto; 
+    text-align: center; 
+    padding: 20px; 
+    border: 1px solid #ccc; 
+}
+
+img {
+    margin-left: auto; 
+    margin-right: auto; 
+    display: block; 
+  }

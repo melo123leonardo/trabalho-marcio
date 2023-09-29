@@ -1,0 +1,29 @@
+h1 {
+   color: rgb(250, 250, 250);
+    text-align: center; 
+    border: 4px solid #0b93e2f3;
+    background-color: aqua;
+    font-size: 100px;
+}
+
+ul li {
+    display: inline; 
+    margin-right: 10px; 
+  }
+  h2 {
+    text-align: center; 
+  }
+  
+
+  
+  img {
+    margin-left: auto; 
+    margin-right: auto; 
+    display: block; 
+  }
+  body {
+    background-color: #e8fdff; 
+  }
+  p {
+    font-size: 20px; 
+  }
